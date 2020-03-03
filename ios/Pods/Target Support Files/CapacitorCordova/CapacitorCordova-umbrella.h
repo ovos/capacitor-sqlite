@@ -21,7 +21,6 @@
 #import "CDVPluginManager.h"
 #import "CDVPluginResult.h"
 #import "CDVScreenOrientationDelegate.h"
-#import "CDVUIWebViewDelegate.h"
 #import "CDVURLProtocol.h"
 #import "CDVUserAgentUtil.h"
 #import "CDVViewController.h"
